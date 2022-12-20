@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.container{
+    margin: 40px;
+    outline: 1px solid;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+h1{
+    text-align: center;
+}
+
+.sbarrato{
+    text-decoration: line-through;
+    color: lightgrey;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    margin: 20px 0px;
+}
